@@ -3917,3 +3917,7 @@
 			}
 
 		}
+
+.big{
+   max-width=475px !important;	
+}
